@@ -31,4 +31,6 @@ int main() {
 
     sem_destroy(&aArrived);
     sem_destroy(&bArrived);
+
+    return 0;
 }
