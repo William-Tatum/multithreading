@@ -1,7 +1,7 @@
 # multithreading
 My experience following the little book of semaphores.
 
-# **sync**
+# sync
 This is a file written in both Python and C++ showing the rendezvous problem.
 
 If A arrives first, it waits for B. When B arrives, it wakes A and might
